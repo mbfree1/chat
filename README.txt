@@ -1,0 +1,1 @@
+This project contains a simple login and chat interface using HTML, CSS, and JavaScript.
